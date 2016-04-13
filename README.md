@@ -1,6 +1,6 @@
 # Delphi
 
-Notificacoes.zip - Contem tres projetos:
+Notificacoes.zip - Contem três projetos:
 Um servidor para envio de notificações PUSH para android
 Um App Android que recebe as notificações Push
 Um servidor REST para receber os DeviceTokens
